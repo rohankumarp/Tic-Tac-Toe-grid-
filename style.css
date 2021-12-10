@@ -1,0 +1,70 @@
+.headd{
+	text-align: center;
+	color: Red;
+}
+
+.tablee{
+	margin: auto;
+	border-collapse: collapse; 
+}
+
+.one{
+	border-bottom: 2px solid black;
+	border-right: 2px solid black ;
+	width: 100px;
+	height: 100px;
+}
+.two{
+	border-bottom: 2px solid black;
+	border-right: 2px solid black ;
+	border-left: 2px solid black;
+	width: 100px;
+	height: 100px;
+}
+.thr{
+	border-bottom: 2px solid black;
+	border-left: 2px solid black;
+	width: 100px;
+	height: 100px;
+}
+.four{
+	border-bottom: 2px solid black;
+	border-right: 2px solid black ;
+	border-top: 2px solid black;
+	width: 100px;
+	height: 100px;
+}
+.fiv{
+	border-bottom: 2px solid black;
+	border-right: 2px solid black ;
+	border-left: 2px solid black;
+	border-top: 2px solid black;
+	width: 100px;
+	height: 100px;
+}
+.six{
+	border-bottom: 2px solid black;
+	border-top: 2px solid black ;
+	border-left: 2px solid black;
+	width: 100px;
+	height: 100px;
+}
+.sev{
+	border-top: 2px solid black;
+	border-right: 2px solid black ;
+	width: 100px;
+	height: 100px;
+}
+.eig{
+	border-top: 2px solid black;
+	border-right: 2px solid black ;
+	border-left: 2px solid black;
+	width: 100px;
+	height: 100px;
+}
+.nin{
+	border-top: 2px solid black;
+	border-left: 2px solid black;
+	width: 100px;
+	height: 100px;
+}
